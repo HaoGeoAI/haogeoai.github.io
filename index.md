@@ -5,7 +5,6 @@ title: "Hao Chen"
 permalink: /
 ---
 
-# Hao Chen
 
 **Ph.D. Candidate in Geospatial Information Sciences**  
 **The University of Texas at Dallas**
