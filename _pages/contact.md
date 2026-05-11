@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Contact
 
 **Hao Chen**  
 Ph.D. Candidate in Geospatial Information Sciences  
