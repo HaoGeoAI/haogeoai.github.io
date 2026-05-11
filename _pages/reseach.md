@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Research
 
 My research integrates GeoAI, remote sensing, computer vision, and spatial analysis to support environmental monitoring and conservation applications.
 
