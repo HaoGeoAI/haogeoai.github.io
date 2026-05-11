@@ -2,7 +2,6 @@ title: "Hao Chen"
 name: "Hao Chen"
 description: "GeoAI · Remote Sensing · Wildlife Monitoring · Spatial Data Science"
 url: "https://utdhao.github.io"
-avatar: "/assets/images/bio-photo.jpg"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
@@ -21,14 +20,8 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=BNp7wUYAAAAJ"
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/hao-chen-5718282b6"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=BNp7wUYAAAAJ"
+include:
+  - _pages
 
 plugins:
   - jekyll-include-cache
