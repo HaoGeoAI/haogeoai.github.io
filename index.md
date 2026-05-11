@@ -14,7 +14,7 @@ permalink: /
 
 > Advancing AI-driven environmental monitoring with drones, camera traps, and geospatial intelligence.
 
-[Curriculum Vitae](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ) · [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6)
+[Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ) · [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6)
 
 ---
 
