@@ -35,7 +35,7 @@ My current work focuses on AI-driven wildlife monitoring using drone thermal ima
 ## Academic Experience
 
 - **Ph.D. Researcher**, Geospatial Information Sciences, The University of Texas at Dallas
-- **Teaching Assistant**, The University of Texas at Dallas
+- **Teaching Assistant**, Geospatial Information Sciences, The University of Texas at Dallas
 
 ---
 
@@ -48,10 +48,6 @@ Deep learning, computer vision, and geospatial artificial intelligence for envir
 ### Remote Sensing
 
 Drone thermal imagery, camera trap imagery, satellite data, and multi-source sensing for ecological analysis.
-
-### Wildlife Monitoring
-
-Automated species detection, instance counting, behavior interpretation, and human–wildlife interaction analysis.
 
 ### Vision–Language Models
 
