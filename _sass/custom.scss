@@ -1,40 +1,83 @@
-/* Main content typography */
+/* ==========================================================================
+   Custom styles for Hao Chen academic portfolio
+   ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   Global typography
+   -------------------------------------------------------------------------- */
+
 .page__content {
   font-size: 18px;
   line-height: 1.75;
 }
 
-/* Page title */
+.page__content p {
+  margin-bottom: 1.1em;
+}
+
+.page__content a {
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+
+/* --------------------------------------------------------------------------
+   Page title and headings
+   -------------------------------------------------------------------------- */
+
 .page__title {
   font-size: 36px;
   font-weight: 700;
+  margin-bottom: 0.8em;
 }
 
-/* Section headings */
 .page__content h2 {
   font-size: 28px;
   font-weight: 700;
   margin-top: 2.2em;
+  margin-bottom: 1em;
   border-bottom: 1px solid #e6e6e6;
-  padding-bottom: 0.3em;
+  padding-bottom: 0.35em;
 }
 
 .page__content h3 {
   font-size: 22px;
   font-weight: 700;
-  margin-top: 1.8em;
+  margin-top: 1.6em;
+  margin-bottom: 0.7em;
 }
 
-/* Homepage research slogan */
+.page__content h4 {
+  font-size: 19px;
+  font-weight: 700;
+  margin-top: 1.4em;
+}
+
+
+/* --------------------------------------------------------------------------
+   Homepage research identity / slogan
+   -------------------------------------------------------------------------- */
+
 .research-tagline {
   font-size: 20px;
+  line-height: 1.6;
   font-style: italic;
   border-left: 4px solid #6c757d;
-  padding-left: 18px;
+  padding: 12px 0 12px 20px;
   margin: 28px 0;
+  color: #444;
+  background: #fafafa;
 }
 
-/* Project/research cards */
+
+/* --------------------------------------------------------------------------
+   Project cards and research cards
+   -------------------------------------------------------------------------- */
+
 .project-card {
   border: 1px solid #e5e5e5;
   border-radius: 10px;
@@ -45,27 +88,173 @@
 
 .project-card h3 {
   margin-top: 0;
+  margin-bottom: 0.7em;
+  font-size: 21px;
+  font-weight: 700;
 }
 
-/* Images */
+.project-card p {
+  margin-bottom: 0.7em;
+}
+
+.project-card strong {
+  font-weight: 700;
+}
+
+
+/* --------------------------------------------------------------------------
+   Publications
+   -------------------------------------------------------------------------- */
+
+.publication-item {
+  margin-bottom: 24px;
+  padding-bottom: 8px;
+}
+
+.publication-item p {
+  margin-bottom: 0.35em;
+}
+
+.publication-title {
+  font-weight: 700;
+  margin-bottom: 0.35em;
+}
+
+
+/* --------------------------------------------------------------------------
+   Images and captions
+   -------------------------------------------------------------------------- */
+
 .research-image {
+  display: block;
   max-width: 100%;
+  height: auto;
   border-radius: 8px;
   margin: 18px 0 6px 0;
 }
 
 .image-caption {
   font-size: 15px;
+  line-height: 1.5;
   color: #666;
   font-style: italic;
   margin-top: 4px;
+  margin-bottom: 16px;
 }
 
-/* Publications */
-.publication-item {
-  margin-bottom: 20px;
-}
 
-.publication-title {
+/* --------------------------------------------------------------------------
+   Skill / keyword blocks
+   -------------------------------------------------------------------------- */
+
+.keyword-line {
   font-weight: 700;
+  line-height: 1.7;
+  margin-bottom: 1.2em;
+}
+
+.skill-list {
+  margin-top: 1em;
+}
+
+.skill-list p {
+  margin-bottom: 0.5em;
+}
+
+
+/* --------------------------------------------------------------------------
+   Contact page
+   -------------------------------------------------------------------------- */
+
+.contact-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin: 24px 0;
+  background: #fafafa;
+}
+
+.contact-card p {
+  margin-bottom: 0.5em;
+}
+
+
+/* --------------------------------------------------------------------------
+   Sidebar author profile
+   -------------------------------------------------------------------------- */
+
+.author__avatar img {
+  border-radius: 50%;
+}
+
+.author__name {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.author__bio {
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.author__urls {
+  font-size: 15px;
+}
+
+
+/* --------------------------------------------------------------------------
+   Top navigation
+   -------------------------------------------------------------------------- */
+
+.greedy-nav {
+  font-size: 17px;
+}
+
+.greedy-nav a {
+  font-weight: 500;
+}
+
+
+/* --------------------------------------------------------------------------
+   Horizontal rules
+   -------------------------------------------------------------------------- */
+
+.page__content hr {
+  margin: 2em 0;
+  border: 0;
+  border-top: 1px solid #e6e6e6;
+}
+
+
+/* --------------------------------------------------------------------------
+   Mobile adjustments
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .page__content {
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  .page__title {
+    font-size: 30px;
+  }
+
+  .page__content h2 {
+    font-size: 24px;
+  }
+
+  .page__content h3 {
+    font-size: 20px;
+  }
+
+  .project-card,
+  .contact-card {
+    padding: 16px 18px;
+  }
+
+  .research-tagline {
+    font-size: 18px;
+    padding-left: 16px;
+  }
 }
