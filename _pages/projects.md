@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Projects
 
 ## CameraTrap-Instruct
 
