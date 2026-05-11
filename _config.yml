@@ -1,3 +1,6 @@
+head_scripts:
+  - /assets/css/custom.css
+
 title: "Hao Chen"
 name: "Hao Chen"
 description: "GeoAI · Remote Sensing · Wildlife Monitoring · Spatial Data Science"
