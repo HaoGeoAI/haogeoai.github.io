@@ -5,49 +5,65 @@ layout: single
 author_profile: true
 ---
 
-This page presents static demonstrations of my recent vision-language model research for ecological and remote sensing applications. The examples show how fine-tuned multimodal models can interpret drone thermal imagery and camera trap imagery for structured ecological information extraction.
-
-These are static portfolio demonstrations. They show representative inputs, prompts, and expected model-style outputs. Interactive image upload and live inference will require a separate backend service, such as Hugging Face Spaces, Gradio, FastAPI, or a GPU-enabled server.
+This page presents static demonstrations of my recent vision-language model research for ecological and remote sensing applications. The examples below illustrate representative inputs, prompts, and structured outputs from fine-tuned multimodal models.
 
 ---
 
-## Demo 1: Thermal Drone VLM for Species Recognition and Habitat-Context Interpretation
+## Demo 1: Lightweight Multimodal Adaptation of Vision Language Models for Drone Thermal and RGB Imagery
 
 <div class="demo-card">
 
-<h3>Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery</h3>
+<h3>Species Recognition, Counting, and Habitat Context Interpretation</h3>
 
 <p>
-This demo illustrates a fine-tuned vision-language model adapted to drone thermal imagery. The model is designed to recognize wildlife species, estimate instance counts, and generate habitat-context descriptions from thermal remote sensing inputs.
+This demo is based on my fine-tuned vision-language model for drone imagery. The framework supports two related tasks: species recognition and counting from thermal imagery, and habitat-context interpretation from RGB imagery.
 </p>
 
-<p><strong>Research focus:</strong> Thermal drone imagery, vision-language models, multimodal projector alignment, species recognition, instance counting, and habitat-context interpretation.</p>
+---
 
-<p><strong>Representative task:</strong></p>
+<h4>Demo 1A: Thermal Imagery</h4>
 
-<pre><code>Identify the species, count the individuals, and describe the habitat context in this drone thermal image.</code></pre>
+<p><strong>Input image:</strong></p>
 
-<div class="demo-image-grid">
+<img src="/assets/images/demo-thermal-input-1.jpg" alt="Drone thermal input image" class="demo-image-single">
 
-  <div>
-    <img src="/assets/images/demo-thermal-input-1.jpg" alt="Drone thermal demo input image 1" class="demo-image">
-    <p class="image-caption">Example input 1: drone thermal imagery for wildlife recognition.</p>
-  </div>
+<p class="image-caption">Thermal drone image used for species recognition and instance counting.</p>
 
-  <div>
-    <img src="/assets/images/demo-thermal-input-2.jpg" alt="Drone thermal demo input image 2" class="demo-image">
-    <p class="image-caption">Example input 2: drone thermal imagery for species and count interpretation.</p>
-  </div>
+<p><strong>Prompt:</strong></p>
 
-</div>
+<pre><code>Identify the species and count. Return ONLY in the format: Species; Count (example: Deer; 1).</code></pre>
 
-<p><strong>Example structured output:</strong></p>
+<p><strong>Example model output:</strong></p>
 
 <div class="model-output">
-Species: Rhino<br>
-Count: 1<br>
-Habitat context: The animal appears as a high-contrast thermal target in an open or partially open landscape. The surrounding scene suggests detectable large-bodied wildlife in a drone-based thermal remote sensing view.<br>
-Interpretation: The image provides evidence for species-level recognition and instance enumeration from thermal drone imagery.
+Rhino; 1
+</div>
+
+---
+
+<h4>Demo 1B: RGB Imagery</h4>
+
+<p><strong>Input image:</strong></p>
+
+<img src="/assets/images/demo-rgb-input-1.jpg" alt="Drone RGB input image" class="demo-image-single">
+
+<p class="image-caption">RGB drone image used for environmental and habitat-context interpretation.</p>
+
+<p><strong>Prompt:</strong></p>
+
+<pre><code>Describe the most important environmental context in this drone image. Return 4 lines only:
+Habitat/land cover:
+Key landscape features (e.g., river, road, forest edge, grassland).
+Human presence/disturbance (if any).
+Brief habitat-context interpretation (1 sentence).</code></pre>
+
+<p><strong>Example model output:</strong></p>
+
+<div class="model-output">
+Habitat/land cover: Open grassland with scattered shrubs.
+Key landscape features: Grassland, forest edge, and a narrow dirt track.
+Human presence/disturbance (if any): No visible human presence.
+Brief habitat-context interpretation: The scene suggests suitable open habitat adjacent to edge vegetation, which may support wildlife movement and foraging.
 </div>
 
 <p><strong>Publication:</strong> Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026). <em>Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery.</em> arXiv preprint arXiv:2604.06124.</p>
@@ -64,40 +80,44 @@ Interpretation: The image provides evidence for species-level recognition and in
 
 <div class="demo-card">
 
-<h3>CameraTrap-Instruct: A Vision-Language Model for Structured Extraction and Interpreting of Camera Trap Imagery</h3>
+<h3>Structured Ecological Extraction from Camera Trap Imagery</h3>
 
 <p>
-This demo illustrates CameraTrap-Instruct, a vision-language model designed for structured ecological interpretation of camera trap imagery. The model supports species identification, instance counting, behavior description, metadata extraction, visual question answering, and ecological reasoning.
+This demo is based on CameraTrap-Instruct, a vision-language model for structured interpretation of camera trap images. The model supports species identification, counting, metadata extraction, behavior classification, and caption generation.
 </p>
 
-<p><strong>Research focus:</strong> Camera trap imagery, ecological attribute extraction, behavior interpretation, OCR-based metadata extraction, and structured wildlife monitoring outputs.</p>
+<p><strong>Input image:</strong></p>
 
-<p><strong>Representative task:</strong></p>
+<img src="/assets/images/demo-cameratrap-input-1.jpg" alt="Camera trap input image" class="demo-image-single">
 
-<pre><code>Analyze this camera trap image. Identify the species, count the animals, describe the behavior, and extract visible metadata if available.</code></pre>
+<p class="image-caption">Camera trap image used for structured ecological extraction and metadata-aware interpretation.</p>
 
-<div class="demo-image-grid">
+<p><strong>Prompt:</strong></p>
 
-  <div>
-    <img src="/assets/images/demo-cameratrap-input-1.jpg" alt="Camera trap demo input image 1" class="demo-image">
-    <p class="image-caption">Example input 1: camera trap imagery for structured ecological interpretation.</p>
-  </div>
+<pre><code>"You are assisting a wildlife conservation study with camera-trap images.
+Return One JSON object ONLY (no extra text).
+Keys and value rules:
+species (comma-separated; one or two species; common names allowed);
+count (integer);
+temperature (e.g., 87°F (31°C));
+date (MM/DD/YYYY);
+time (HH:MM:SS, 24-hour);
+behavior (one single word);
+caption (1 or 2 sentences. Describe the target’s action, count, and what can be seen in the background.
+Do not mention temperature, date, or time.)"</code></pre>
 
-  <div>
-    <img src="/assets/images/demo-cameratrap-input-2.jpg" alt="Camera trap demo input image 2" class="demo-image">
-    <p class="image-caption">Example input 2: camera trap imagery with species, behavior, and metadata cues.</p>
-  </div>
-
-</div>
-
-<p><strong>Example structured output:</strong></p>
+<p><strong>Example model output:</strong></p>
 
 <div class="model-output">
-Species: Deer<br>
-Count: 2<br>
-Behavior: Moving through the camera trap scene.<br>
-Visible metadata: Date, time, and ambient temperature can be extracted when visible in the image frame.<br>
-Ecological interpretation: The image provides structured evidence of wildlife presence, activity, and site-level ecological context.
+{
+  "species": "cow, human",
+  "count": 2,
+  "temperature": "97°F (36°C)",
+  "date": "04/28/2022",
+  "time": "15:14:25",
+  "behavior": "moving",
+  "caption": "A woman in an orange dress walks barefoot past a brown cow in a forested area. She carries a black backpack."
+}
 </div>
 
 <p><strong>Publication:</strong> Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026). <em>CameraTrap-Instruct: A Vision-Language Model for Structured Extraction and Interpreting of Camera Trap Imagery.</em> Available at SSRN 6301278.</p>
@@ -110,20 +130,6 @@ Ecological interpretation: The image provides structured evidence of wildlife pr
 
 ---
 
-## Notes on Interactive Deployment
+## Notes
 
-GitHub Pages is a static hosting service, so this page cannot run fine-tuned VLM checkpoints directly. A fully interactive demo would require a model inference backend.
-
-A practical deployment structure would be:
-
-<div class="model-output">
-GitHub Pages frontend<br>
-↓<br>
-Hugging Face Spaces / Gradio / FastAPI backend<br>
-↓<br>
-Fine-tuned VLM checkpoint<br>
-↓<br>
-Generated model output
-</div>
-
-For the current portfolio version, the static demo format is recommended because it is lightweight, professional, and does not require uploading model checkpoints.
+This page presents static examples for research communication purposes. Live inference and user-upload functionality would require a separate backend service, such as Hugging Face Spaces, Gradio, FastAPI, or another GPU-enabled deployment environment.
