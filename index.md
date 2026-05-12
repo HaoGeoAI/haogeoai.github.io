@@ -58,15 +58,19 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">City-level total and sub-category energy intensity estimation using machine learning.</p>
-  <p>Shen, F., Lin, X., Chen, H., Ma, J., Shi, K., &amp; Cao, W. (2025).</p>
-  <p><em>International Journal of Digital Earth, 18</em>(1), 2463947.</p>
-</div>
-
-<div class="publication-item">
   <p class="publication-title">Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data.</p>
   <p>Dong, F., Rahman, M. T., &amp; Chen, H. (2026).</p>
   <p><em>Environmental Monitoring and Assessment, 198</em>(3), 278.</p>
+  <img src="/assets/images/Air pollution.jpg" alt="Air pollution" class="research-image">
+  <p class="image-caption">Scatterplots comparing predicted versus observed cancer prevalence across four regression models: RF Regression, OLS, SVM, and MLP.</p>
+</div>
+
+<div class="publication-item">
+  <p class="publication-title">Carbon Emissions Estimation and Spatiotemporal Analysis of China at City Level Based on Multi-Dimensional Data and Machine Learning.</p>
+  <p>Lin, X., Shen, F., Chen, H., Ma, J. (2022).</p>
+  <p><em>Remote Sensing, 14</em>(13), 3014.</p>
+  <img src="/assets/images/cabin emission.jpg" alt="cabin emission" class="research-image">
+  <p class="image-caption">Carbon emissions estimation results of cities in the experimental area from 2001 to 2019.</p>
 </div>
 
 <p><a href="/publications/">View full publication list →</a></p>
