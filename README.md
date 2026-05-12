@@ -30,7 +30,7 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
 
 - **Chen, H.**, Qiu, F., An, L., Stow, D., Bohnett, E., Lyu, H., & Tian, S. (2025). Multi-perspective monitoring of wildlife and human activities from camera traps and drones with deep learning models. *arXiv preprint arXiv:2508.15629*.
 
-- Dong, F., Rahman, M. T., & **Chen, H.** (2026). Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data. *Environmental Monitoring and Assessment, 198*, 278. https://doi.org/10.1007/s10661-026-15102-w
+- Dong, F., Rahman, M. T., & **Chen, H.** (2026). Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data. *Environmental Monitoring and Assessment, 198*, 278. 
 
 - Shen, F., Lin, X., **Chen, H.**, Ma, J., Shi, K., & Cao, W. (2025). City-level total and sub-category energy intensity estimation using machine learning. *International Journal of Digital Earth, 18*(1), 2463947.
 
