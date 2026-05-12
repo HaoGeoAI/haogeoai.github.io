@@ -15,7 +15,7 @@ My teaching interests are closely connected to geospatial information sciences, 
 
 ### Geographic Information Systems
 
-I am interested in teaching core GIS concepts, including spatial data models, map design, geoprocessing, spatial query, coordinate systems, and GIS-based problem solving.
+GIS concepts, including spatial data models, map design, geoprocessing, spatial query, coordinate systems, and GIS-based problem solving.
 
 </div>
 
@@ -23,7 +23,7 @@ I am interested in teaching core GIS concepts, including spatial data models, ma
 
 ### Remote Sensing
 
-My teaching interests include remote sensing principles, image interpretation, satellite and drone imagery, thermal imagery, environmental monitoring, and remote sensing applications in conservation and land-cover analysis.
+Remote sensing principles, image interpretation, satellite and drone imagery, thermal imagery, environmental monitoring, and remote sensing applications in conservation and land-cover analysis.
 
 </div>
 
@@ -31,7 +31,7 @@ My teaching interests include remote sensing principles, image interpretation, s
 
 ### Spatial Analysis
 
-I am interested in teaching spatial analysis methods such as spatial interpolation, kernel density estimation, overlay analysis, proximity analysis, spatial autocorrelation, and spatiotemporal analysis.
+Spatial analysis methods such as spatial interpolation, kernel density estimation, overlay analysis, proximity analysis, spatial autocorrelation, and spatiotemporal analysis.
 
 </div>
 
@@ -39,7 +39,7 @@ I am interested in teaching spatial analysis methods such as spatial interpolati
 
 ### GeoAI and Computer Vision
 
-I am interested in teaching applied GeoAI topics, including deep learning for geospatial data, object detection, image classification, YOLO-based workflows, and vision–language models for environmental applications.
+Applied GeoAI topics, including deep learning for geospatial data, object detection, image classification, YOLO-based workflows, and vision–language models for environmental applications.
 
 </div>
 
@@ -47,7 +47,7 @@ I am interested in teaching applied GeoAI topics, including deep learning for ge
 
 ### Programming for Geospatial Data Science
 
-I am interested in teaching Python and R for geospatial data processing, visualization, automation, and spatial data analysis.
+Python and R for geospatial data processing, visualization, automation, and spatial data analysis.
 
 </div>
 
@@ -55,9 +55,7 @@ I am interested in teaching Python and R for geospatial data processing, visuali
 
 ## Teaching and Mentoring Philosophy
 
-My teaching emphasizes practical application, step-by-step modeling, and project-based learning. I believe students learn geospatial technologies most effectively when they connect technical methods with meaningful real-world problems. In GIS, remote sensing, and GeoAI courses, I aim to help students understand not only how to use tools, but also why particular methods are appropriate for specific research questions.
-
-I value clear explanations, reproducible workflows, and scaffolded assignments. My goal is to support students in developing confidence with spatial data, programming, analytical reasoning, and scientific communication.
+I believe effective STEM education bridges theory and application. Drawing on 10+ years of teaching across China and the United States — from undergraduate Python Programming to graduate-level Drone and Remote Sensing — I design courses around hands-on projects, real-world datasets, and iterative problem solving. My goal is to equip students with both technical fluency and the critical thinking to apply it across disciplines.
 
 ---
 
