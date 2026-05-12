@@ -1,6 +1,6 @@
 # Hao Chen
 
-**GeoAI · Remote Sensing · Wildlife Monitoring · Computer Vision · Vision–Language Models · Spatial Analysis**
+**GeoAI · Remote Sensing · Geospatial Data Science · Spatiotemporal Analysis · Computer Vision · Vision–Language Models **
 
 I am a Ph.D. Candidate in Geospatial Information Sciences at **The University of Texas at Dallas**. My research integrates GeoAI, remote sensing, computer vision, and spatial analysis to support environmental monitoring and conservation applications.
 
