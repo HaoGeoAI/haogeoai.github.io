@@ -35,7 +35,6 @@ Richardson, TX, USA</p>
 
 <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hao-chen-5718282b6" target="_blank" rel="noopener noreferrer">View LinkedIn Profile</a></p>
 
-<p><strong>GitHub:</strong> <a href="[https://github.com/haogeoai](https://github.com/HaoGeoAI/haogeoai.github.io)" target="_blank" rel="noopener noreferrer">View GitHub Profile</a></p>
 
 </div>
 
