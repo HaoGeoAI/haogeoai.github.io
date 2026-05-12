@@ -59,7 +59,7 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Cummings</stron
 
   <div class="course-box course-blue">
     <div class="book-frame">
-      <img src="/assets/images/remote-sensing-fundamentals-book.jpg" alt="Remote Sensing Fundamentals textbook">
+      <img src="/assets/images/remote sensing.jpg" alt="Remote Sensing Fundamentals textbook">
     </div>
     <h3>Remote Sensing Fundamentals</h3>
     <p>Teaching support for remote sensing principles, image interpretation, and environmental applications.</p>
