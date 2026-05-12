@@ -97,7 +97,7 @@ This demo is based on CameraTrap-Instruct, a vision-language model for structure
 
 <h4>Input Image</h4>
 
-<img src="/assets/images/Demo2.jpg" alt="Camera trap input image" class="demo-image-single">
+<img src="/assets/images/Demo2.jpg" alt="Camera trap input image" class="demo-image-large">
 
 <p class="image-caption">Camera trap image used for structured ecological extraction and metadata-aware interpretation.</p>
 
