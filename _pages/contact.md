@@ -5,20 +5,21 @@ layout: single
 author_profile: true
 ---
 
-I welcome opportunities for research collaboration, academic communication, and discussions related to GeoAI, remote sensing, wildlife monitoring, computer vision, and spatial analysis.
+I welcome opportunities for research collaboration, academic communication, industry job opportunities, and discussions related to GeoAI, remote sensing, wildlife monitoring, computer vision, multimodal AI, and spatial analysis.
 
 ---
 
 ## Contact Information
 
-<div class="project-card">
+<div class="contact-section">
 
-**Hao Chen**  
-Ph.D. Candidate in Geospatial Information Sciences  
-The University of Texas at Dallas  
-Richardson, TX, USA  
+<p><strong>Hao Chen</strong></p>
 
-**Email:** [hao.chen2@utdallas.edu](mailto:hao.chen2@utdallas.edu)
+<p>Ph.D. Candidate in Geospatial Information Sciences<br>
+<a href="https://www.utdallas.edu/" target="_blank" rel="noopener noreferrer">The University of Texas at Dallas</a><br>
+Richardson, TX, USA</p>
+
+<p><strong>Email:</strong> <a href="mailto:hao.chen2@utdallas.edu">hao.chen2@utdallas.edu</a></p>
 
 </div>
 
@@ -26,13 +27,15 @@ Richardson, TX, USA
 
 ## Academic Profiles
 
-<div class="project-card">
+<div class="contact-links">
 
-**Google Scholar:** [View Profile](https://scholar.google.com/citations?user=BNp7wUYAAAAJ)  
+<p><strong>Website:</strong> <a href="https://utdhao.github.io/" target="_blank" rel="noopener noreferrer">https://utdhao.github.io/</a></p>
 
-**LinkedIn:** [View Profile](https://linkedin.com/in/hao-chen-5718282b6)  
+<p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=BNp7wUYAAAAJ" target="_blank" rel="noopener noreferrer">View Google Scholar Profile</a></p>
 
-**GitHub:** [View Repository](https://github.com/UTDHao)
+<p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hao-chen-5718282b6" target="_blank" rel="noopener noreferrer">View LinkedIn Profile</a></p>
+
+<p><strong>GitHub:</strong> <a href="https://github.com/UTDHao" target="_blank" rel="noopener noreferrer">View GitHub Profile</a></p>
 
 </div>
 
@@ -40,13 +43,16 @@ Richardson, TX, USA
 
 ## Research Areas for Collaboration
 
-<div class="project-card">
-
 - GeoAI and spatial data science
 - Remote sensing for environmental monitoring
 - Drone thermal imagery and camera trap analysis
 - Deep learning and computer vision for wildlife monitoring
-- Vision–language models for ecological interpretation
-- Spatial and spatiotemporal analysis of human–wildlife interactions
+- Vision-language models for ecological interpretation
+- Spatial and spatiotemporal analysis of human-wildlife interactions
+- GIS, geocoding, location intelligence, and spatial decision support
 
-</div>
+---
+
+## Collaboration Note
+
+I am especially interested in interdisciplinary collaborations that connect geospatial science, remote sensing, artificial intelligence, environmental monitoring, and conservation applications.
