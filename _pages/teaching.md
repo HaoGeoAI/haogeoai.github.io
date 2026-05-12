@@ -28,7 +28,7 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cumming
   <div class="featured-teaching-text">
     <h3>Drone &amp; Remote Sensing</h3>
     <p><strong>Instructor of Record</strong></p>
-    <p>Designed and taught a course focused on drone applications, remote sensing workflows, geospatial data collection, and applied spatial analysis. Developed the syllabus, labs, assessments, and lecture materials from scratch.</p>
+    <p>Recent technological advancement and Federal Aviation Administration (FAA) regulation now make it possible for a growing number of individuals and commercial firms to own small unmanned aerial systems (sUAS) - often called drones. This offers new opportunities for many business operation and scientific research, including collecting high resolution remotely sensed images, which were traditionally acquired by sensors onboard satellite and manned aircraft platforms. As an alternative remote sensing platform, drone provides a person with a complete control on the type of aircraft used (e.g., fixed-wing or multi-rotor drone), the sensor system (e.g., visible, NIR, and thermal camera), location, time of day, altitude above-ground-level (AGL), look-angle (e.g., oblique, vertical), look-direction, and duration, and at a reasonable cost, which was impossible before. To enable more students to perform personal remote sensing using drone, the class is offered at the graduate level. The course will cover the theories, technologies, methodologies, and application of drone based photography and videography for remote sensing purposes. The course is open not only to GIS students, but any students who are interested in drone technology at UTD.</p>
 
     <p>
       <strong>Syllabus:</strong>
@@ -54,7 +54,7 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cumming
       <img src="/assets/images/AdvGIS.jpg" alt="Advanced GIS textbook">
     </div>
     <h3>Advanced GIS</h3>
-    <p>Teaching support for advanced spatial workflows, GIS analysis, and applied geospatial problem solving.</p>
+    <p>A graduate level course with treatment of advanced topics in GIS, including spatial analysis and modeling, geovisualization and geoprocessing. Student will be acquainted with state-of–the-art software through hands-on laboratory experiences</p>
   </div>
 
   <div class="course-box course-blue">
@@ -67,26 +67,26 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cumming
 
   <div class="course-box course-green">
     <div class="book-frame">
-      <img src="/assets/images/internet-mapping-book.jpg" alt="Internet Mapping textbook">
+      <img src="/assets/images/webGIS.jpg" alt="Internet Mapping textbook">
     </div>
     <h3>Internet Mapping</h3>
-    <p>Teaching support for web mapping, interactive spatial communication, and online GIS applications.</p>
+    <p>Provides a conceptual overview and hands-on experiences in Internet mapping and web-based geospatial information processing with a wide range of state-of-art software, including both open-source and commercial packages. Topics covered include cloud computing, client/server configuration, distributed data access and display, web-based user interaction and customization, and other ArcGIS online applications.</p>
   </div>
 
   <div class="course-box course-orange">
     <div class="book-frame">
-      <img src="/assets/images/global-change-sustainability-book.jpg" alt="Global Change and Sustainability textbook">
+      <img src="/assets/images/global changes.jpg" alt="Global Change and Sustainability textbook">
     </div>
     <h3>Global Changes &amp; Its Chanllenges</h3>
-    <p>Teaching support for environmental change, sustainability, and geographic perspectives on global systems.</p>
+    <p>Focus on the physical processes and patterns of terrestrial, atmospheric, and climatic changes, as well as discuss the social causes and implications of such change.  The course's main objectives include developing an understanding of i) basic earth system processes and the mechanisms that lead to environmental change ii) the human impact on earth systems, its effects on the global environment, and the ways in which these changes, in turn, affect humans, and iii) exploring data that will allow us to observe change and presenting positions on observations.</p>
   </div>
 
   <div class="course-box course-red">
     <div class="book-frame">
-      <img src="/assets/images/research-design-social-policy-book.jpg" alt="Research Design in the Social and Policy Sciences textbook">
+      <img src="/assets/images/research design.jpg" alt="Research Design in the Social and Policy Sciences textbook">
     </div>
     <h3>Research Design in the Social and Policy Sciences</h3>
-    <p>Teaching support for research design, methodological reasoning, and social and policy science assignments.</p>
+    <p>This course teaches students core concepts that define social and policy research at primarily a conceptual level: (a) the purpose of social science and policy research; (b) ethical and political challenges of conducting social science and policy research; (c) the role of paradigm, theory, and prior evidence in conducting research, (e) operationalization and measurement of simple and complex constructs, (d) probabilistic and non-probabilistic sampling, (e) empirical quantitative and qualitative research methodologies, (f) data collection and analytic methods, and (g) interpretation and communication of research results. Students completing this course will develop a foundational understanding of how to conduct systematic inquiry in the social and policy sciences. </p>
   </div>
 
 </div>
