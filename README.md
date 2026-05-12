@@ -92,9 +92,6 @@ I have worked with **Dr. Fang Qiu** and **Dr. Cummings** in teaching and instruc
 
 ## Get in Touch
 
-I welcome opportunities for research collaboration and academic communication related to GeoAI, remote sensing, wildlife monitoring, computer vision, multimodal AI, and spatial analysis.
+I welcome opportunities for research collaboration, academic communication, and job opportunities related to spatial analysis, geospatial data science, remote sensing, computer vision, multimodal AI, and GeoAI.
 
 - **Email:** hao.chen2@utdallas.edu
-- **Website:** https://utdhao.github.io/
-- **Google Scholar:** https://scholar.google.com/citations?user=BNp7wUYAAAAJ
-- **LinkedIn:** https://linkedin.com/in/hao-chen-5718282b6
