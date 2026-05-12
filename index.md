@@ -12,19 +12,15 @@ permalink: /
 GeoAI · Remote Sensing · Wildlife Monitoring · Computer Vision · Vision–Language Models · Spatial Analysis
 </div>
 
-<div class="research-tagline">
-Advancing AI-driven environmental monitoring with drones, camera traps, and geospatial intelligence.
-</div>
-
-[Curriculum Vitae](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ) · [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6)
+ [Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ) · [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6)
 
 ---
 
 ## About Me
 
-I am a Ph.D. Candidate in Geospatial Information Sciences at The University of Texas at Dallas. My research integrates GeoAI, remote sensing, computer vision, and spatial analysis to support environmental monitoring and conservation applications.
+I am a Ph.D. Candidate in Geospatial Information Sciences at The University of Texas at Dallas. My research integrates GeoAI, remote sensing, computer vision, and spatial statistics to support geospatial applications.
 
-My current work focuses on AI-driven wildlife monitoring using drone thermal imagery and camera trap data. I develop deep learning and vision–language model frameworks for species recognition, instance counting, ecological attribute extraction, and spatial analysis of human–wildlife interactions.
+Expert in raster data analysis including satellite and drone imagery, multispectral processing, and remote sensing — and vector data analysis including spatial statistics, geocoding, network analysis, and location intelligence pipelines. Geospatial data scientist and FAA-certified Remote Pilot (Part 107) with 10+ years of experience in spatial data science, remote sensing, Machine Learning, and GeoAI. 
 
 ---
 
