@@ -89,7 +89,6 @@ I have worked with [**Dr. Fang Qiu**](https://profiles.utdallas.edu/fang.qiu) an
 
 - Served as sole instructor of record for **Drone & Remote Sensing**, designing the syllabus, labs, and assessments from scratch.
 - Supported instruction in **Advanced GIS**, **Remote Sensing Fundamentals**, **Internet Mapping**, **Global Change & Sustainability**, and **Research Design in the Social and Policy Sciences**.
-
 ---
 
 ## Get in Touch
