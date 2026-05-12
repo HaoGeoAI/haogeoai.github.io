@@ -2,7 +2,7 @@
 
 **GeoAI · Remote Sensing · Geospatial Data Science · Spatiotemporal Analysis · Computer Vision · Vision–Language Models**
 
-I am a Ph.D. Candidate in Geospatial Information Sciences at **The University of Texas at Dallas**. My research integrates GeoAI, remote sensing, computer vision, and spatial analysis to support environmental monitoring and conservation applications.
+I am a Ph.D. Candidate in Geospatial Information Sciences at **[The University of Texas at Dallas](https://www.utdallas.edu/)**. My research integrates GeoAI, remote sensing, computer vision, and spatial analysis to support environmental monitoring and conservation applications.
 
 My current work focuses on AI-driven wildlife monitoring using drone thermal imagery and camera trap data. I develop deep learning and vision–language model frameworks for species recognition, instance counting, ecological attribute extraction, and spatial analysis of human–wildlife interactions.
 
