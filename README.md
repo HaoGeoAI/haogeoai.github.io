@@ -14,9 +14,9 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
 
 - **GeoAI and Spatial Data Science:** deep learning, machine learning, and geospatial artificial intelligence for environmental and conservation applications.
 - **Remote Sensing:** satellite imagery, drone/UAV imagery, thermal imagery, RGB imagery, and multi-source environmental sensing.
-- **Wildlife Monitoring:** automated species detection, instance counting, behavior interpretation, and human–wildlife interaction analysis.
 - **Vision–Language Models:** multimodal adaptation, LoRA/QLoRA fine-tuning, ecological captioning, visual question answering, and structured ecological reasoning.
 - **Spatial and Spatiotemporal Analysis:** KDE, IDW, Moran's I, LISA cluster analysis, spatial autocorrelation, daily presence records, and temporal proximity analysis.
+- **Wildlife Monitoring:** automated species detection, instance counting, behavior interpretation, and human–wildlife interaction analysis.
 
 ---
 
@@ -29,6 +29,8 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
 - **Chen, H.**, Qiu, F., Dong, F., Yang, D., Bohnett, E., & An, L. (2026). CameraTrap-Instruct: A Vision-Language Model for Structured Extraction and Interpreting of Camera Trap Imagery. *Available at SSRN 6301278*.
 
 - **Chen, H.**, Qiu, F., An, L., Stow, D., Bohnett, E., Lyu, H., & Tian, S. (2025). Multi-perspective monitoring of wildlife and human activities from camera traps and drones with deep learning models. *arXiv preprint arXiv:2508.15629*.
+
+- Dong, F., Rahman, M. T., & **Chen, H.** (2026). Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data. *Environmental Monitoring and Assessment, 198*, 278. https://doi.org/10.1007/s10661-026-15102-w
 
 - Shen, F., Lin, X., **Chen, H.**, Ma, J., Shi, K., & Cao, W. (2025). City-level total and sub-category energy intensity estimation using machine learning. *International Journal of Digital Earth, 18*(1), 2463947.
 
