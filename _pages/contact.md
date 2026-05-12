@@ -29,7 +29,7 @@ Richardson, TX, USA</p>
 
 <div class="contact-links">
 
-<p><strong>Website:</strong> <a href="https://haogeoai.github.io/" target="_blank" rel="noopener noreferrer">https://utdhao.github.io/</a></p>
+<p><strong>Website:</strong> <a href="https://haogeoai.github.io/" target="_blank" rel="noopener noreferrer">https://haogeoai.github.io/</a></p>
 
 <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=BNp7wUYAAAAJ" target="_blank" rel="noopener noreferrer">View Google Scholar Profile</a></p>
 
