@@ -100,6 +100,7 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cumming
   <li>Remote sensing and image interpretation</li>
   <li>Geographic Information Systems and spatial analysis</li>
   <li>Internet mapping and web-based GIS communication</li>
+  <li>Python programming and Machine Learning</li>
   <li>Environmental monitoring and sustainability</li>
   <li>Research design and analytical reasoning in social and policy sciences</li>
 </ul>
