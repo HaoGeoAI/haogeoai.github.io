@@ -85,7 +85,7 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
 
 ## Teaching
 
-I have worked with **Dr. Fang Qiu** and **Dr. Cummings** in teaching and instructional support roles.
+I have worked with **Dr. Fang Qiu** and **Dr. Anthony Cummings** in teaching and instructional support roles.
 
 - Served as sole instructor of record for **Drone & Remote Sensing**, designing the syllabus, labs, and assessments from scratch.
 - Supported instruction in **Advanced GIS**, **Remote Sensing Fundamentals**, **Internet Mapping**, **Global Change & Sustainability**, and **Research Design in the Social and Policy Sciences**.
