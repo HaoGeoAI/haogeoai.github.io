@@ -25,7 +25,7 @@ This demo is based on my fine-tuned vision-language model for drone imagery. The
 
 <p><strong>Input image:</strong></p>
 
-<img src="/assets/images/demo-thermal-input-1.jpg" alt="Drone thermal input image" class="demo-image-single">
+<img src="/assets/images/Demo1_thermal.jpg" alt="Drone thermal input image" class="demo-image-single">
 
 <p class="image-caption">Thermal drone image used for species recognition and instance counting.</p>
 
@@ -45,7 +45,7 @@ Rhino; 1
 
 <p><strong>Input image:</strong></p>
 
-<img src="/assets/images/demo-rgb-input-1.jpg" alt="Drone RGB input image" class="demo-image-single">
+<img src="/assets/images/demo1_RGB.jpg" alt="Drone RGB input image" class="demo-image-single">
 
 <p class="image-caption">RGB drone image used for environmental and habitat-context interpretation.</p>
 
@@ -88,7 +88,7 @@ This demo is based on CameraTrap-Instruct, a vision-language model for structure
 
 <p><strong>Input image:</strong></p>
 
-<img src="/assets/images/demo-cameratrap-input-1.jpg" alt="Camera trap input image" class="demo-image-single">
+<img src="/assets/images/Demo2.jpg" alt="Camera trap input image" class="demo-image-single">
 
 <p class="image-caption">Camera trap image used for structured ecological extraction and metadata-aware interpretation.</p>
 
