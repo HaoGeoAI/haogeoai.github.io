@@ -8,84 +8,85 @@ author_profile: true
 <div class="teaching-page-title">TEACHING &amp; ASSISTING</div>
 
 <p class="teaching-intro">
-I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Cummings</strong> in teaching and instructional support roles. My teaching experience includes serving as the sole instructor of record for a drone and remote sensing course, as well as supporting instruction in multiple GIS, remote sensing, and research methods courses.
+I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in GIS, remote sensing, internet mapping, sustainability, and research design courses.
 </p>
+
+<div class="teaching-comments">
+  <ul>
+    <li><em>Served as sole instructor of record for Drone &amp; Remote Sensing; designed the syllabus, labs, and assessments from scratch.</em></li>
+    <li><em>Supported instruction in Advanced GIS, Remote Sensing Fundamentals, Internet Mapping, Global Change &amp; Sustainability, and Research Design in the Social and Policy Sciences.</em></li>
+    <li><em>Provided student guidance, assignment support, technical assistance, and course-related mentoring in geospatial information sciences.</em></li>
+  </ul>
+</div>
 
 ---
 
 ## Instructor of Record
 
-<div class="course-card featured-course">
-  <h3 class="course-title">Drone &amp; Remote Sensing</h3>
-  <p class="course-subtitle">Instructor of Record</p>
+<div class="featured-teaching-card">
 
-  <ul>
-    <li>Served as sole instructor of record for <strong>Drone &amp; Remote Sensing</strong>.</li>
-    <li>Designed the syllabus, lab exercises, and assessments from scratch.</li>
-    <li>Developed course materials to introduce students to drone applications, remote sensing workflows, and applied geospatial analysis.</li>
-  </ul>
+  <div class="featured-teaching-text">
+    <h3>Drone &amp; Remote Sensing</h3>
+    <p><strong>Instructor of Record</strong></p>
+    <p>Designed and taught a course focused on drone applications, remote sensing workflows, geospatial data collection, and applied spatial analysis. Developed the syllabus, labs, assessments, and lecture materials from scratch.</p>
 
-  <p>
-    <strong>Syllabus:</strong>
-    <a href="/assets/files/syllabus.pdf" target="_blank">Download syllabus (PDF)</a>
-  </p>
-
-  <div class="teaching-gallery">
-    <div class="gallery-item">
-      <img src="/assets/images/slides1.jpg" alt="Drone and Remote Sensing course slides 1" class="course-image">
-      <p class="image-caption">Sample lecture slide deck for Drone &amp; Remote Sensing.</p>
-    </div>
-
-    <div class="gallery-item">
-      <img src="/assets/images/slides2.jpg" alt="Drone and Remote Sensing course slides 2" class="course-image">
-      <p class="image-caption">Example instructional materials and visual content used in class.</p>
-    </div>
+    <p>
+      <strong>Syllabus:</strong>
+      <a href="/assets/files/syl-GISC 6328 Summer  2026.pdf" target="_blank">Download syllabus (PDF)</a>
+    </p>
   </div>
+
+  <div class="featured-teaching-images">
+    <img src="/assets/images/MAVIC3.jpg" alt="Drone and Remote Sensing slide example 1">
+    <img src="/assets/images/drone image.jpg" alt="Drone and Remote Sensing slide example 2">
+  </div>
+
 </div>
 
 ---
 
-## Supported Courses
+## Courses Supported
 
-<p class="teaching-intro">
-I also supported instruction in the following courses through teaching assistance, student guidance, technical support, and course-related mentoring.
-</p>
+<div class="course-grid">
 
-<div class="teaching-grid">
-
-  <div class="course-card">
-    <img src="/assets/images/advanced-gis-book.jpg" alt="Advanced GIS textbook" class="course-book">
-    <h3 class="course-title">Advanced GIS</h3>
-    <p class="course-subtitle">Teaching Support</p>
-    <p>Supported instruction in advanced GIS concepts, spatial workflows, and applied geospatial problem solving.</p>
+  <div class="course-box course-purple">
+    <div class="book-frame">
+      <img src="/assets/images/advanced-gis-book.jpg" alt="Advanced GIS textbook">
+    </div>
+    <h3>Advanced GIS</h3>
+    <p>Teaching support for advanced spatial workflows, GIS analysis, and applied geospatial problem solving.</p>
   </div>
 
-  <div class="course-card">
-    <img src="/assets/images/remote-sensing-fundamentals-book.jpg" alt="Remote Sensing Fundamentals textbook" class="course-book">
-    <h3 class="course-title">Remote Sensing Fundamentals</h3>
-    <p class="course-subtitle">Teaching Support</p>
-    <p>Assisted students with remote sensing principles, image interpretation, and environmental applications of geospatial imagery.</p>
+  <div class="course-box course-blue">
+    <div class="book-frame">
+      <img src="/assets/images/remote-sensing-fundamentals-book.jpg" alt="Remote Sensing Fundamentals textbook">
+    </div>
+    <h3>Remote Sensing Fundamentals</h3>
+    <p>Teaching support for remote sensing principles, image interpretation, and environmental applications.</p>
   </div>
 
-  <div class="course-card">
-    <img src="/assets/images/internet-mapping-book.jpg" alt="Internet Mapping textbook" class="course-book">
-    <h3 class="course-title">Internet Mapping</h3>
-    <p class="course-subtitle">Teaching Support</p>
-    <p>Supported web mapping instruction, online GIS communication, and interactive map-based information delivery.</p>
+  <div class="course-box course-green">
+    <div class="book-frame">
+      <img src="/assets/images/internet-mapping-book.jpg" alt="Internet Mapping textbook">
+    </div>
+    <h3>Internet Mapping</h3>
+    <p>Teaching support for web mapping, interactive spatial communication, and online GIS applications.</p>
   </div>
 
-  <div class="course-card">
-    <img src="/assets/images/global-change-sustainability-book.jpg" alt="Global Change and Sustainability textbook" class="course-book">
-    <h3 class="course-title">Global Change &amp; Sustainability</h3>
-    <p class="course-subtitle">Teaching Support</p>
-    <p>Assisted with course activities related to environmental change, sustainability issues, and geographic perspectives on global systems.</p>
+  <div class="course-box course-orange">
+    <div class="book-frame">
+      <img src="/assets/images/global-change-sustainability-book.jpg" alt="Global Change and Sustainability textbook">
+    </div>
+    <h3>Global Change &amp; Sustainability</h3>
+    <p>Teaching support for environmental change, sustainability, and geographic perspectives on global systems.</p>
   </div>
 
-  <div class="course-card">
-    <img src="/assets/images/research-design-social-policy-book.jpg" alt="Research Design in the Social and Policy Sciences textbook" class="course-book">
-    <h3 class="course-title">Research Design in the Social and Policy Sciences</h3>
-    <p class="course-subtitle">Teaching Support</p>
-    <p>Supported students in research design, methodological reasoning, and course assignments related to social and policy research.</p>
+  <div class="course-box course-red">
+    <div class="book-frame">
+      <img src="/assets/images/research-design-social-policy-book.jpg" alt="Research Design in the Social and Policy Sciences textbook">
+    </div>
+    <h3>Research Design in the Social and Policy Sciences</h3>
+    <p>Teaching support for research design, methodological reasoning, and social and policy science assignments.</p>
   </div>
 
 </div>
@@ -97,8 +98,8 @@ I also supported instruction in the following courses through teaching assistanc
 <ul>
   <li>Drone and UAV applications in geospatial analysis</li>
   <li>Remote sensing and image interpretation</li>
-  <li>Geographic Information Systems (GIS)</li>
-  <li>Internet mapping and web-based geospatial communication</li>
-  <li>Spatial analysis and applied geospatial workflows</li>
+  <li>Geographic Information Systems and spatial analysis</li>
+  <li>Internet mapping and web-based GIS communication</li>
+  <li>Environmental monitoring and sustainability</li>
   <li>Research design and analytical reasoning in social and policy sciences</li>
 </ul>
