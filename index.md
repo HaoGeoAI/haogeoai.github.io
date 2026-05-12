@@ -29,6 +29,8 @@ Expert in raster data analysis including satellite and drone imagery, multispect
   <p class="publication-title">Deep Learning-Based Framework for Spatiotemporal Analysis of Human-Wildlife Co-occurrence and Conflict Risk Using Camera Trap Imagery.</p>
   <p>Chen, H., Qiu, F., Kulsum, U. et al. (2026).</p>
   <p><em>Biological Conservation.</em> Under review.</p>
+  <img src="/assets/images/Detection results of human activities and wildlife with the identical camera traps.jpg" alt="Representative detection results of the YOLOv11s model on the camera trap dataset" class="research-image">
+  <p class="image-caption">Detection results of human activities and wildlife with the identical camera traps of (a) BZF10 (within the Buffer Zone, Region 1), (b) BZF17 (within the Buffer Zone, Region 2), (c) CNP15 (within the CNP, Region 3), and (d) CRF03 (within the Corridor Forest, Region 4).</p>
 </div>
 
 <div class="publication-item">
