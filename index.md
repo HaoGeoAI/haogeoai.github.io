@@ -80,13 +80,13 @@ I am a geospatial data scientist and [FAA-certified Remote Pilot under Part 107]
 ## Conference Proceedings
 
 <div class="publication-item">
-  <p class="publication-title">[7] From Images to Insights: Using Vision-Language Models on Camera-Trap Imagery for Conservation Monitoring.</p>
+  <p class="publication-title">[1] From Images to Insights: Using Vision-Language Models on Camera-Trap Imagery for Conservation Monitoring.</p>
   <p>Chen, H., Qiu, F., Li, A., et al. (2026).</p>
   <p><em>2026 AAG Annual Meeting, San Francisco, CA.</em></p>
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">[8] Mapping Wildlife and Human Activities from Camera Trapping Imagery Using Deep Learning Models.</p>
+  <p class="publication-title">[2] Mapping Wildlife and Human Activities from Camera Trapping Imagery Using Deep Learning Models.</p>
   <p>Chen, H., Qiu, F., Li, A., et al. (2025).</p>
   <p><em>2025 IALE-North America Annual Meeting, Raleigh, NC.</em></p>
 </div>
