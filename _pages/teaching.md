@@ -11,14 +11,6 @@ author_profile: true
 I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in <strong>Advance GIS, Remote Sensing Foundamental, Internet Mapping with ArcGIS Online, Global Changes and Its Chanllenges, and Research Design</strong> courses.
 </p>
 
-<div class="teaching-comments">
-  <ul>
-    <li><em>Served as sole instructor of record for Drone &amp; Remote Sensing; designed the syllabus, labs, and assessments from scratch.</em></li>
-    <li><em>Supported instruction in Advanced GIS, Remote Sensing Fundamentals, Internet Mapping, Global Change &amp; Sustainability, and Research Design in the Social and Policy Sciences.</em></li>
-    <li><em>Provided student guidance, assignment support, technical assistance, and course-related mentoring in geospatial information sciences.</em></li>
-  </ul>
-</div>
-
 ---
 
 ## Instructor of Record
