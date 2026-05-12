@@ -36,7 +36,7 @@ This demo is based on my fine-tuned vision-language model for drone imagery. The
 <p><strong>Example model output:</strong></p>
 
 <div class="model-output">
-Rhino; 1
+Deer; 15
 </div>
 
 ---
