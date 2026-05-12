@@ -8,7 +8,7 @@ author_profile: true
 <div class="teaching-page-title">TEACHING &amp; ASSISTING</div>
 
 <p class="teaching-intro">
-I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in <strong>Advance GIS, Remote Sensing Foundamental, Internet Mapping with ArcGIS Online, Global Change and Chanllenges, and Research Design</strong> courses.
+I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in <strong>Advance GIS, Remote Sensing Foundamental, Internet Mapping with ArcGIS Online, Global Changes and Its Chanllenges, and Research Design</strong> courses.
 </p>
 
 <div class="teaching-comments">
@@ -77,7 +77,7 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cumming
     <div class="book-frame">
       <img src="/assets/images/global-change-sustainability-book.jpg" alt="Global Change and Sustainability textbook">
     </div>
-    <h3>Global Change &amp; Sustainability</h3>
+    <h3>Global Changes &amp; Its Chanllenges</h3>
     <p>Teaching support for environmental change, sustainability, and geographic perspectives on global systems.</p>
   </div>
 
