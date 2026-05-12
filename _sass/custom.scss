@@ -486,3 +486,25 @@
     max-width: 100%;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Contact page
+   -------------------------------------------------------------------------- */
+
+.contact-section,
+.contact-links {
+  border-left: 4px solid #6c757d;
+  padding: 12px 0 12px 20px;
+  margin: 20px 0 28px 0;
+  background: #fafafa;
+}
+
+.contact-section p,
+.contact-links p {
+  margin-bottom: 0.55em;
+}
+
+.contact-links a,
+.contact-section a {
+  word-break: break-word;
+}
