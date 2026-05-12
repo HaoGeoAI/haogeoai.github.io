@@ -55,13 +55,13 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
 ## Skills
 
 - **Geospatial Tools:**  
-  ArcGIS Pro · ArcGIS Online · ERDAS IMAGINE · GeoDa · Business Analyst Online · QGIS
+  ArcGIS Pro · ArcGIS Online · Dronr2Map · ERDAS IMAGINE · GeoDa · Business Analyst Online · QGIS
 
 - **Spatial Data & Formats:**  
-  Shapefile · GeoJSON · GeoTIFF · NAIP · TIGER/Census · Parcel Data · NHTS · Smart Location Data
+  Shapefile · GeoJSON · GeoTIFF · TIGER/Census · Parcel Data · NHTS · Smart Location Data
 
 - **Remote Sensing:**  
-  Satellite Imagery · MODIS · Landsat · Sentinel · Drone/UAV · FAA Part 107 · LIDAR · Thermal & RGB Fusion
+  NAIP · MODIS · Landsat · Sentinel · Drone/UAV · FAA Part 107 · LIDAR · RADAR · Thermal & RGB Fusion
 
 - **Spatial Analysis:**  
   Moran's I · LISA Cluster Analysis · Spatial Autocorrelation · Buffer Analysis · Spatial Interpolation · Georeferencing
@@ -73,7 +73,7 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
   Qwen2.5/3-VL · LLaMA-3.2-VL · InternVL3 · LoRA/QLoRA Fine-tuning · Prompt Engineering
 
 - **Programming Languages:**  
-  Python · R · SQL · MATLAB
+  Python · R · SQL · MATLAB · JAVA Script 
 
 - **Big Data & Cloud:**  
   AWS S3 · AWS EC2 · AWS SageMaker · PySpark · Databricks · MongoDB
