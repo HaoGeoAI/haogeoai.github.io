@@ -258,3 +258,20 @@
     padding-left: 16px;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Wider main content area
+   -------------------------------------------------------------------------- */
+
+.page {
+  width: calc(100% - 300px);
+  padding-right: 3em;
+}
+
+.page__inner-wrap {
+  max-width: 980px;
+}
+
+.page__content {
+  max-width: 980px;
+}
