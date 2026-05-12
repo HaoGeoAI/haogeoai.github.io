@@ -6,7 +6,7 @@ I am a Ph.D. Candidate in Geospatial Information Sciences at **[The University o
 
 My current work focuses on AI-driven wildlife monitoring using drone thermal imagery and camera trap data. I develop deep learning and vision–language model frameworks for species recognition, instance counting, ecological attribute extraction, and spatial analysis of human–wildlife interactions.
 
-More information can be found on my [Personal Website](https://utdhao.github.io/), [Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ), and [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6).
+More information can be found on my [Personal Website](https://haogeoai.github.io/), [Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ), and [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6).
 
 ---
 
