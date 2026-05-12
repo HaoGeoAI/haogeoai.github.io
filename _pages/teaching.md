@@ -8,7 +8,7 @@ author_profile: true
 <div class="teaching-page-title">TEACHING &amp; ASSISTING</div>
 
 <p class="teaching-intro">
-I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in GIS, remote sensing, internet mapping, sustainability, and research design courses.
+I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in GIS, remote sensing, internet mapping, sustainability, and research design courses.
 </p>
 
 <div class="teaching-comments">
