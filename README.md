@@ -54,72 +54,32 @@ More information can be found on my [Personal Website](https://utdhao.github.io/
 
 ## Skills
 
-- **Geospatial Tools**
-  - ArcGIS Pro
-  - ArcGIS Online
-  - ERDAS IMAGINE
-  - GeoDa
-  - Business Analyst Online
-  - QGIS
+- **Geospatial Tools:**  
+  ArcGIS Pro · ArcGIS Online · ERDAS IMAGINE · GeoDa · Business Analyst Online · QGIS
 
-- **Spatial Data & Formats**
-  - Shapefile
-  - GeoJSON
-  - GeoTIFF
-  - NAIP
-  - TIGER/Census
-  - Parcel Data
-  - NHTS
-  - Smart Location Data
+- **Spatial Data & Formats:**  
+  Shapefile · GeoJSON · GeoTIFF · NAIP · TIGER/Census · Parcel Data · NHTS · Smart Location Data
 
-- **Remote Sensing**
-  - Satellite Imagery: MODIS, Landsat, Sentinel
-  - Drone/UAV: FAA Part 107
-  - LIDAR
-  - Thermal & RGB Fusion
+- **Remote Sensing:**  
+  Satellite Imagery · MODIS · Landsat · Sentinel · Drone/UAV · FAA Part 107 · LIDAR · Thermal & RGB Fusion
 
-- **Spatial Analysis**
-  - Moran's I
-  - LISA Cluster Analysis
-  - Spatial Autocorrelation
-  - Buffer Analysis
-  - Spatial Interpolation
-  - Georeferencing
+- **Spatial Analysis:**  
+  Moran's I · LISA Cluster Analysis · Spatial Autocorrelation · Buffer Analysis · Spatial Interpolation · Georeferencing
 
-- **GeoAI / Machine Learning**
-  - Faster R-CNN
-  - YOLOv5, YOLOv8, YOLOv11
-  - PyTorch
-  - TensorFlow
-  - Scikit-learn
+- **GeoAI / Machine Learning:**  
+  Faster R-CNN · YOLOv5 · YOLOv8 · YOLOv11 · PyTorch · TensorFlow · Scikit-learn
 
-- **LLM & Multimodal AI**
-  - Qwen2.5/3-VL
-  - LLaMA-3.2-VL
-  - InternVL3
-  - LoRA/QLoRA Fine-tuning
-  - Prompt Engineering
+- **LLM & Multimodal AI:**  
+  Qwen2.5/3-VL · LLaMA-3.2-VL · InternVL3 · LoRA/QLoRA Fine-tuning · Prompt Engineering
 
-- **Programming Languages**
-  - Python
-  - R
-  - SQL
-  - MATLAB
+- **Programming Languages:**  
+  Python · R · SQL · MATLAB
 
-- **Big Data & Cloud**
-  - AWS S3
-  - AWS EC2
-  - AWS SageMaker
-  - PySpark
-  - Databricks
-  - MongoDB
+- **Big Data & Cloud:**  
+  AWS S3 · AWS EC2 · AWS SageMaker · PySpark · Databricks · MongoDB
 
-- **Visualization**
-  - Tableau
-  - Power BI
-  - ArcGIS Dashboards
-  - Matplotlib
-  - Seaborn
+- **Visualization:**  
+  Tableau · Power BI · ArcGIS Dashboards · Matplotlib · Seaborn
 
 ---
 
