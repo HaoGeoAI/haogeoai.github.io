@@ -51,7 +51,7 @@ I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Cummings</stron
 
   <div class="course-box course-purple">
     <div class="book-frame">
-      <img src="/assets/images/advanced-gis-book.jpg" alt="Advanced GIS textbook">
+      <img src="/assets/images/AdvGIS.jpg" alt="Advanced GIS textbook">
     </div>
     <h3>Advanced GIS</h3>
     <p>Teaching support for advanced spatial workflows, GIS analysis, and applied geospatial problem solving.</p>
