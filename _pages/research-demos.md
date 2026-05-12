@@ -60,10 +60,10 @@ Brief habitat-context interpretation (1 sentence).</code></pre>
 <p><strong>Example model output:</strong></p>
 
 <div class="model-output">
-Habitat/land cover: Open grassland with scattered shrubs.
-Key landscape features: Grassland, forest edge, and a narrow dirt track.
-Human presence/disturbance (if any): No visible human presence.
-Brief habitat-context interpretation: The scene suggests suitable open habitat adjacent to edge vegetation, which may support wildlife movement and foraging.
+Habitat/land cover: Dense tropical rainforest with mixed canopy layers
+Key landscape features: Thick undergrowth, scattered trees, and exposed bare branches.
+Human presence/disturbance (if any): Minimal; no visible roads, buildings, or clear-cut areas.
+Brief habitat-context interpretation: This undisturbed forest supports high biodiversity and complex ecological interactions.
 </div>
 
 <p><strong>Publication:</strong> Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026). <em>Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery.</em> arXiv preprint arXiv:2604.06124.</p>
