@@ -20,7 +20,7 @@ GeoAI · Remote Sensing · Wildlife Monitoring · Computer Vision · Vision–La
 
 I am a Ph.D. Candidate in Geospatial Information Sciences at [The University of Texas at Dallas](https://www.utdallas.edu/). My research integrates GeoAI, remote sensing, computer vision, and spatial statistics to support geospatial and environmental applications.
 
-I am a geospatial data scientist and [FAA-certified Remote Pilot under Part 107](https://www.faa.gov/regulations_policies/faa_regulations) with 10+ years of experience in spatial data science, remote sensing, machine learning, and GeoAI. My expertise includes raster data analysis, such as satellite and drone imagery, multispectral processing, and remote sensing, as well as vector data analysis, including spatial statistics, geocoding, network analysis, and location intelligence pipelines.
+As a geospatial data scientist and [FAA-certified Remote Pilot under Part 107](https://www.faa.gov/regulations_policies/faa_regulations) with 10+ years of experience, I work across spatial data science, remote sensing, machine learning, and GeoAI. My expertise includes raster data analysis, such as satellite and drone imagery, multispectral processing, and remote sensing, as well as vector data analysis, including spatial statistics, geocoding, network analysis, and location intelligence pipelines.
 
 
 ## Selected Publications
