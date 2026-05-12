@@ -4,7 +4,7 @@ head_scripts:
 title: "Hao Chen"
 name: "Hao Chen"
 description: "GeoAI · Remote Sensing · Wildlife Monitoring · Spatial Data Science"
-url: "https://utdhao.github.io"
+url: "https://haogeoai.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
