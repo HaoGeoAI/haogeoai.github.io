@@ -57,21 +57,60 @@ My current work focuses on AI-driven wildlife monitoring using drone thermal ima
 
 ---
 
-## Selected Publications and Manuscripts
+## Selected Publications
 
 <div class="publication-item">
-  <p class="publication-title">CameraTrap-Instruct: From Wildlife Detection to Ecological Reasoning with Vision–Language Models.</p>
-  <p>Hao Chen. <em>Manuscript in preparation.</em></p>
+  <p class="publication-title">Deep Learning-Based Framework for Spatiotemporal Analysis of Human-Wildlife Co-occurrence and Conflict Risk Using Camera Trap Imagery.</p>
+  <p>Chen, H., Qiu, F., Kulsum, U. et al. (2026).</p>
+  <p><em>Biological Conservation.</em> Under review.</p>
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Lightweight Multimodal Adaptation of Vision–Language Models for Species Recognition and Habitat-Context Interpretation in Drone Thermal Imagery.</p>
-  <p>Hao Chen. <em>Manuscript in preparation.</em></p>
+  <p class="publication-title">Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery.</p>
+  <p>Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026).</p>
+  <p><em>arXiv preprint arXiv:2604.06124.</em></p>
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Multi-Perspective Monitoring and Spatial Analysis of Wildlife from Drones and Camera Traps with Deep Learning Models.</p>
-  <p>Hao Chen. <em>Manuscript in preparation.</em></p>
+  <p class="publication-title">CameraTrap-Instruct: A Vision-Language Model for Structured Extraction and Interpreting of Camera Trap Imagery.</p>
+  <p>Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026).</p>
+  <p><em>Available at SSRN 6301278.</em></p>
+</div>
+
+<div class="publication-item">
+  <p class="publication-title">Multi-perspective monitoring of wildlife and human activities from camera traps and drones with deep learning models.</p>
+  <p>Chen, H., Qiu, F., An, L., Stow, D., Bohnett, E., Lyu, H., &amp; Tian, S. (2025).</p>
+  <p><em>arXiv preprint arXiv:2508.15629.</em></p>
+</div>
+
+<div class="publication-item">
+  <p class="publication-title">City-level total and sub-category energy intensity estimation using machine learning.</p>
+  <p>Shen, F., Lin, X., Chen, H., Ma, J., Shi, K., &amp; Cao, W. (2025).</p>
+  <p><em>International Journal of Digital Earth, 18</em>(1), 2463947.</p>
+</div>
+
+<div class="publication-item">
+  <p class="publication-title">Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data.</p>
+  <p>Dong, F., Rahman, M. T., &amp; Chen, H. (2026).</p>
+  <p><em>Environmental Monitoring and Assessment, 198</em>(3), 278.</p>
+</div>
+
+<p><a href="/publications/">View full publication list →</a></p>
+
+---
+
+## Conference Proceedings
+
+<div class="publication-item">
+  <p class="publication-title">From Images to Insights: Using Vision-Language Models on Camera-Trap Imagery for Conservation Monitoring.</p>
+  <p>Chen, H., Qiu, F., Li, A., et al. (2026).</p>
+  <p><em>2026 AAG Annual Meeting, San Francisco, CA.</em></p>
+</div>
+
+<div class="publication-item">
+  <p class="publication-title">Mapping Wildlife and Human Activities from Camera Trapping Imagery Using Deep Learning Models.</p>
+  <p>Chen, H., Qiu, F., Li, A., et al. (2025).</p>
+  <p><em>2025 IALE-North America Annual Meeting, Raleigh, NC.</em></p>
 </div>
 
 ---
@@ -80,12 +119,22 @@ My current work focuses on AI-driven wildlife monitoring using drone thermal ima
 
 <div class="skill-list">
 
-<p><strong>GIS and Remote Sensing:</strong> ArcGIS Pro, QGIS, Google Earth Engine, spatial analysis, KDE, IDW</p>
+<p><strong>Geospatial Tools:</strong> ArcGIS Pro · ArcGIS Online · ERDAS IMAGINE · GeoDa · Business Analyst Online · QGIS</p>
 
-<p><strong>AI and Computer Vision:</strong> YOLOv5, YOLOv8, YOLOv11, PyTorch, vision–language models, LoRA fine-tuning</p>
+<p><strong>Spatial Data &amp; Formats:</strong> Shapefile · GeoJSON · GeoTIFF · NAIP · TIGER/Census · Parcel Data · NHTS · Smart Location Data</p>
 
-<p><strong>Programming and Data Science:</strong> Python, R, geospatial data processing, deep learning workflows</p>
+<p><strong>Remote Sensing:</strong> Satellite Imagery (MODIS, Landsat, Sentinel) · Drone/UAV (FAA Part 107) · LIDAR · Thermal &amp; RGB Fusion</p>
 
-<p><strong>Applications:</strong> Wildlife monitoring, conservation technology, environmental remote sensing, human–wildlife interaction analysis</p>
+<p><strong>Spatial Analysis:</strong> Moran's I · LISA Cluster Analysis · Spatial Autocorrelation · Buffer Analysis · Spatial Interpolation · Georeferencing</p>
+
+<p><strong>GeoAI / Machine Learning:</strong> Faster R-CNN · YOLO (v5/v8/v11) · PyTorch · TensorFlow · Scikit-learn</p>
+
+<p><strong>LLM &amp; Multimodal AI:</strong> Qwen2.5/3-VL · LLaMA-3.2-VL · InternVL3 · LoRA/QLoRA Fine-tuning · Prompt Engineering</p>
+
+<p><strong>Programming Languages:</strong> Python · R · SQL · MATLAB</p>
+
+<p><strong>Big Data &amp; Cloud:</strong> AWS (S3 · EC2 · SageMaker) · PySpark · Databricks · MongoDB</p>
+
+<p><strong>Visualization:</strong> Tableau · Power BI · ArcGIS Dashboards · Matplotlib · Seaborn</p>
 
 </div>
