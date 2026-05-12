@@ -26,7 +26,7 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 ## Selected Publications
 
 <div class="publication-item">
-  <p class="publication-title">Deep Learning-Based Framework for Spatiotemporal Analysis of Human-Wildlife Co-occurrence and Conflict Risk Using Camera Trap Imagery.</p>
+  <p class="publication-title">[1] Deep Learning-Based Framework for Spatiotemporal Analysis of Human-Wildlife Co-occurrence and Conflict Risk Using Camera Trap Imagery.</p>
   <p>Chen, H., Qiu, F., Kulsum, U. et al. (2026).</p>
   <p><em>Biological Conservation.</em> Under review.</p>
   <img src="/assets/images/Detection results of human activities and wildlife with the identical camera traps.jpg" alt="Representative detection results of the YOLOv11s model on the camera trap dataset" class="research-image">
@@ -34,7 +34,7 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery.</p>
+  <p class="publication-title">[2] Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery.</p>
   <p>Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026).</p>
   <p><em>arXiv preprint arXiv:2604.06124.</em></p>
   <img src="/assets/images/Lightweight multimodal adaptation of VLMs.jpg" alt="Lightweight multimodal adaptation of VLMs" class="research-image">
@@ -42,7 +42,7 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">CameraTrap-Instruct: A Vision-Language Model for Structured Extraction and Interpreting of Camera Trap Imagery.</p>
+  <p class="publication-title">[3] CameraTrap-Instruct: A Vision-Language Model for Structured Extraction and Interpreting of Camera Trap Imagery.</p>
   <p>Chen, H., Qiu, F., Dong, F., Yang, D., Bohnett, E., &amp; An, L. (2026).</p>
   <p><em>Available at SSRN 6301278.</em></p>
   <img src="/assets/images/cameratrapInstruct.jpg" alt="cameratrapInstruct" class="research-image">
@@ -50,7 +50,7 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Multi-perspective monitoring of wildlife and human activities from camera traps and drones with deep learning models.</p>
+  <p class="publication-title">[4] Multi-perspective monitoring of wildlife and human activities from camera traps and drones with deep learning models.</p>
   <p>Chen, H., Qiu, F., An, L., Stow, D., Bohnett, E., Lyu, H., &amp; Tian, S. (2025).</p>
   <p><em>arXiv preprint arXiv:2508.15629.</em></p>
   <img src="/assets/images/Multiperspective monitoring.jpg" alt="Multiperspective monitoring" class="research-image">
@@ -58,7 +58,7 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data.</p>
+  <p class="publication-title">[5] Spatial analysis of air pollution and cancer prevalence in Texas: a machine learning approach using satellite remote sensing data.</p>
   <p>Dong, F., Rahman, M. T., &amp; Chen, H. (2026).</p>
   <p><em>Environmental Monitoring and Assessment, 198</em>(3), 278.</p>
   <img src="/assets/images/Air pollution.jpg" alt="Air pollution" class="research-image">
@@ -66,7 +66,7 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Carbon Emissions Estimation and Spatiotemporal Analysis of China at City Level Based on Multi-Dimensional Data and Machine Learning.</p>
+  <p class="publication-title">[6] Carbon Emissions Estimation and Spatiotemporal Analysis of China at City Level Based on Multi-Dimensional Data and Machine Learning.</p>
   <p>Lin, X., Shen, F., Chen, H., Ma, J. (2022).</p>
   <p><em>Remote Sensing, 14</em>(13), 3014.</p>
   <img src="/assets/images/cabin emission.jpg" alt="cabin emission" class="research-image">
@@ -80,13 +80,13 @@ Expert in raster data analysis including satellite and drone imagery, multispect
 ## Conference Proceedings
 
 <div class="publication-item">
-  <p class="publication-title">From Images to Insights: Using Vision-Language Models on Camera-Trap Imagery for Conservation Monitoring.</p>
+  <p class="publication-title">[7] From Images to Insights: Using Vision-Language Models on Camera-Trap Imagery for Conservation Monitoring.</p>
   <p>Chen, H., Qiu, F., Li, A., et al. (2026).</p>
   <p><em>2026 AAG Annual Meeting, San Francisco, CA.</em></p>
 </div>
 
 <div class="publication-item">
-  <p class="publication-title">Mapping Wildlife and Human Activities from Camera Trapping Imagery Using Deep Learning Models.</p>
+  <p class="publication-title">[8] Mapping Wildlife and Human Activities from Camera Trapping Imagery Using Deep Learning Models.</p>
   <p>Chen, H., Qiu, F., Li, A., et al. (2025).</p>
   <p><em>2025 IALE-North America Annual Meeting, Raleigh, NC.</em></p>
 </div>
