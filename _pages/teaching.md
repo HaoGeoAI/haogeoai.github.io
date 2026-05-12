@@ -8,7 +8,7 @@ author_profile: true
 <div class="teaching-page-title">TEACHING &amp; ASSISTING</div>
 
 <p class="teaching-intro">
-I have worked with <strong>Dr. Fang Qiu</strong> and <strong>Dr. Anthony Cummings</strong> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in <strong>Advance GIS, Remote Sensing Foundamental, Internet Mapping with ArcGIS Online, Global Changes and Its Chanllenges, and Research Design</strong> courses.
+I have worked with <a href="https://profiles.utdallas.edu/fang.qiu" target="_blank"><strong>Dr. Fang Qiu</strong></a> and <a href="https://www.wesleyan.edu/about/directory/profile.html?id=arcummings" target="_blank"><strong>Dr. Anthony Cummings</strong></a> in teaching and instructional support roles. My experience includes serving as the sole instructor of record for <strong>Drone &amp; Remote Sensing</strong> and supporting instruction in <strong>Advance GIS, Remote Sensing Foundamental, Internet Mapping with ArcGIS Online, Global Changes and Its Chanllenges, and Research Design</strong> courses.
 </p>
 
 ---
