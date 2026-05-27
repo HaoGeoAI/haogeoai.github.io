@@ -9,7 +9,7 @@ permalink: /
 **The University of Texas at Dallas**
 
 <div class="keyword-line">
-GeoAI · Remote Sensing · Wildlife Monitoring · Computer Vision · Vision–Language Models · Spatial Analysis
+GeoAI · Remote Sensing · Computer Vision · Vision–Language Models · Spatial Analysis
 </div>
 
  [Google Scholar](https://scholar.google.com/citations?user=BNp7wUYAAAAJ) · [LinkedIn](https://linkedin.com/in/hao-chen-5718282b6)
